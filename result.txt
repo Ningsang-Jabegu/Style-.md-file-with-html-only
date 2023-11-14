@@ -1,4 +1,4 @@
-Hi I am Developer 2.
-My hometown is Kathmandu.
-I love Ice Cream.
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CPanchthar[A[D[D[D[D[1[B[B[B
+Hi I am Developer [1;5C[Ningsang / Rudrahang
+We are Developer 1 / Developer 2
+Our hometown is Kathmandu / Panchthar.
+We love Ice Cream / Ice Tea.
